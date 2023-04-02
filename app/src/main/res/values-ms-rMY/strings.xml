@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">Tolong</string>
+    <string name="description">Nougat ialah keluarga kuih-muih yang dibuat dengan gula atau madu, kacang panggang (badam, walnut, pistachio, hazelnut dan kacang macadamia adalah perkara biasa), putih telur yang disebat dan kadang-kadang buah manisan yang dicincang. Ia digunakan dalam pelbagai bar gula-gula dan coklat.</string>
+    <string name="nougat">Pakej Gula-gula Nougat</string>
+    <string name="help_text">Jika anda memerlukan bantuan, hubungi Jabatan Sokongan kami.</string>
+    <string name="per_100_pack">Harga setiap 100 pek:</string>
+    <string name="currency">RM</string>
+    <string name="submit">menyerahkan</string>
+    <string name="price">harga</string>
+</resources>

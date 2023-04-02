@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">tulong</string>
+    <string name="description">Ang Nougat ay isang pamilya ng mga confection na gawa sa asukal o pulot, mga inihaw na mani (pangkaraniwan ang mga almendras, walnut, pistachio, hazelnuts, at macadamia nuts), whipped egg whites, at kung minsan ay tinadtad na minatamis na prutas. Ito ay ginagamit sa iba\'t ibang mga candy bar at tsokolate.</string>
+    <string name="nougat">" Pakete ng Nougat Candy"</string>
+    <string name="help_text">Kung kailangan mo ng tulong, makipag-ugnayan sa aming Support Department.</string>
+    <string name="per_100_pack">presyo kada 100 pack :</string>
+    <string name="currency">Peso</string>
+    <string name="submit">ipasa</string>
+    <string name="price">presyo</string>
+</resources>
